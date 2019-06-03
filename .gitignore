@@ -1,0 +1,12 @@
+node_modules
+*.log
+build
+dist
+tmp
+.grunt
+.DS_Store
+.idea
+venv
+.swp
+*~
+*.tar.gz
